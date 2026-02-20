@@ -1,14 +1,25 @@
-# Datos y modelos (Ya los tenemos en el bucket)
+# Datos y Binarios (Ya están en el bucket: coreproyecto-ds-datos)
 *.csv
 *.parquet
 *.pkl
 *.h5
+*.joblib
+*.zip
 
-# Python y Notebooks
+# Python y Virtual Envs
 __pycache__/
-.ipynb_checkpoints/
+*.py[cod]
+*$py.class
+venv/
+env/
 .env
 
-# Colab y entorno
+# Jupyter y Google Colab
+.ipynb_checkpoints
 .config/
 sample_data/
+shell-init.log
+
+# Sistema
+.DS_Store
+Thumbs.db
