@@ -5,7 +5,7 @@ Este repositorio contiene el proyecto final del Máster de Data Science, enfocad
 ## 🏦 Contexto de Negocio
 Tras 4 años de fuerte captación, easyMoney necesita alcanzar la rentabilidad exigida por sus inversores (Lion Global Management). El proyecto se centra en reorientar la estrategia desde la captación masiva hacia el aumento de la penetración de productos en la base de clientes actual, siguiendo la estrategia de penetración de mercado de la matriz de Ansoff.
 
-[Image of Ansoff Matrix showing Market Penetration strategy]
+![Matriz de Ansoff](img/Ansoff-Matrix-Diagram.png)
 
 ## ☁️ Infraestructura y Datos
 Para este proyecto, el equipo utiliza una arquitectura híbrida que garantiza seguridad y escalabilidad:
