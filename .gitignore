@@ -1,0 +1,14 @@
+# Datos y modelos (Ya los tenemos en el bucket)
+*.csv
+*.parquet
+*.pkl
+*.h5
+
+# Python y Notebooks
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Colab y entorno
+.config/
+sample_data/
